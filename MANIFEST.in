@@ -1,0 +1,3 @@
+include CHANGES.txt
+recursive-include doc *
+recursive-include src *

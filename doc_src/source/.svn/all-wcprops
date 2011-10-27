@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/59/trunk/pyev/doc_src/source
+END
+changes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/changes.rst
+END
+Loop.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Loop.rst
+END
+Stat.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Stat.rst
+END
+Embed.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Embed.rst
+END
+Idle.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Idle.rst
+END
+Signal.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Signal.rst
+END
+Async.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Async.rst
+END
+Scheduler.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Scheduler.rst
+END
+examples.rst
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/examples.rst
+END
+Timer.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Timer.rst
+END
+Child.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Child.rst
+END
+pyev.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/pyev.rst
+END
+echo_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/echo_server.py
+END
+basic_usage.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/basic_usage.py
+END
+Prepare_Check.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Prepare_Check.rst
+END
+Watcher.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Watcher.rst
+END
+Periodic.rst
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Periodic.rst
+END
+Fork.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Fork.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/conf.py
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/index.rst
+END
+Io.rst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/59/trunk/pyev/doc_src/source/Io.rst
+END
