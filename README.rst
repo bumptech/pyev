@@ -1,4 +1,7 @@
-Python libev interface.
+*(fork of code.google.com/p/pyev/ -- code at initial commit is r63 in orig svn)*
+
+Python libev interface
+======================
 
 libev is an event loop: you register interest in certain events (such as a file
 descriptor being readable or a timeout occurring), and it will manage these
