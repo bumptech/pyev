@@ -1,0 +1,8 @@
+build/
+src/libev/.deps/
+src/libev/Makefile
+src/libev/config.h
+src/libev/config.log
+src/libev/config.status
+src/libev/libtool
+src/libev/stamp-h1
